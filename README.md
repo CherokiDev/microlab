@@ -15,7 +15,9 @@ Explorar y aprender sobre hardware, sensores, comunicación inalámbrica, domót
 
 | Proyecto                                | Descripción                                      |
 |-----------------------------------------|--------------------------------------------------|
-| [`microlab-template_esp32`](https://github.com/CherokiDev/microlab-template_esp32) | Plantilla base para conexión wifi usando esp32 ||
+| [`microlab-template_esp32`](https://github.com/CherokiDev/microlab-template_esp32) | Plantilla base para conexión wifi usando ESP32. |
+| [`microlab-sensor_humedad_tierra_esp32`](https://github.com/CherokiDev/microlab-sensor_humedad_tierra_esp32)) | Permite medir la humedad del suelo usando un ESP32 y un sensor analógico de humedad. |
+
 
 > *(Se irán añadiendo más proyectos a medida que los desarrolle.)*
 
