@@ -15,7 +15,7 @@ Explorar y aprender sobre hardware, sensores, comunicación inalámbrica, domót
 
 | Proyecto                                | Descripción                                      |
 |-----------------------------------------|--------------------------------------------------|
-| [`microlab-template-esp32`](https://github.com/tuusuario/microlab-template-esp32) | Plantilla base para conexión wifi usando esp32 ||
+| [`microlab-template-esp32`](https://github.com/CherokiDev/microlab-template_esp32) | Plantilla base para conexión wifi usando esp32 ||
 
 > *(Se irán añadiendo más proyectos a medida que los desarrolle.)*
 
